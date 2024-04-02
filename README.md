@@ -25,5 +25,4 @@ To use the app, simply open the `index.html` file in a modern web browser.
 The app utilizes the browser's localStorage to persist tasks locally. This means that tasks will still be available even if you close the browser or refresh the page. However, please note that localStorage is limited to the browser and device where the tasks were created.
 
 
-![image](https://github.com/subhajit2002/to-do-App/assets/113613387/ba3e7d17-ccfc-462f-a890-f8774f766079)
 
